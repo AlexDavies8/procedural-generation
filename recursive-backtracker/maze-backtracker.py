@@ -1,5 +1,4 @@
 import random
-from PIL import Image
 import os.path
 
 class cell:
@@ -93,6 +92,7 @@ if filepath != "":
         file.write(mapStr)
         file.close()
     elif ext == ".png" or ext == ".jpg":
+        from PIL import Image
         img = Image.new('RGB', (width*2+1, height*2+1))
         for x in range(width):
             for y in range(height):
