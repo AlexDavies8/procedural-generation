@@ -36,4 +36,4 @@
 # # # # # # # # # # # # # # # # # # # # # 
 </pre>
 <img src="examples/maze25x25.png" alt="25x25 Maze" width="40%"/>
-<img src="examples/maze40x40.png" alt="60x60 Maze" width="70%"/>
+<img src="examples/maze60x60.png" alt="60x60 Maze" width="70%"/>
