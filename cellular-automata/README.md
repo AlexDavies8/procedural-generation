@@ -38,5 +38,5 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # 
 # # # # # # # # # # # # # # # # # # # # # # # # # 
 </pre>
-<img src="examples/cave60x60.png" alt="60x60 Cave" width="40%"/>
+<img src="examples/cave60x60.png" alt="60x60 Cave" width="30%"/>
 <img src="examples/cave512x512.png" alt="512x512 Cave" width="80%"/>
